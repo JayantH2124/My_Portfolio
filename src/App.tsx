@@ -137,12 +137,6 @@ const resumeHighlights = [
       "Strong foundation in programming, responsive layouts, clean UI structure, and problem-solving basics.",
   },
   {
-    label: "Development",
-    title: "MERN Stack Projects",
-    description:
-      "Building full stack web applications with modern frontend pages, backend integration, and GitHub workflow.",
-  },
-  {
     label: "Practice",
     title: "LeetCode and GitHub",
     description:
